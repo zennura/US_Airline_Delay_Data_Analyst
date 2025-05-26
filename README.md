@@ -23,7 +23,8 @@ Dashboard dibuat menggunakan Tableau dan mencakup:
 - **Bar Chart** menampilkan total Arrival Delay per maskapai.
 - **Filter waktu** dari Januari 2017 hingga Juli 2022.
 
-![Dashboard Tableau](images/tableau_dashboard.png)
+![image](https://github.com/user-attachments/assets/2981858f-0af9-4a11-9949-ab2d3f4a0505)
+
 
 🔗 [Lihat dashboard di Tableau Public](https://public.tableau.com/views/US_Airline_Delay2017-2022/USAirlineDelay2017-2022?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
